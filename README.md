@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<img src="https://img.shields.io/badge/#00599C?style=flat&logo=c++&logoColor=white"/>
 <!--
+
 **ekdls278/ekdls278** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
